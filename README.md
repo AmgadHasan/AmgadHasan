@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Amgad! Thanks for checking out my github profile
+I'm Amgad!
 
 
 - 🔭 I’m currently a machine learning engineer working on pipelines for Natural Language Processing (NLP) and Speech to Text (STT)
